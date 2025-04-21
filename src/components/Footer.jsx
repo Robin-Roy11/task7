@@ -2,7 +2,7 @@ function Footer() {
     return (
       <footer className="footer">
         <div className="container">
-          <p>© {new Date().getFullYear()} MovieFinder. Built with 💙 by Robin.</p>
+          <p>© {new Date().getFullYear()} MovieFinder. Built with 💙 by ROBIN.</p>
         </div>
       </footer>
     );
